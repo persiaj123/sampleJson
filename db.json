@@ -1,0 +1,54 @@
+[
+    
+    {
+        "kind": "user",
+        "name": "peter",
+        "admin": false,
+        "groups": [],
+        "server": "/user/peter/",
+        "pending": null,
+        "created": "2018-11-20T23:26:46.896467Z",
+        "last_activity": "2018-11-22T12:11:18.658000Z",
+        "servers": {
+            "": {
+                "name": "",
+                "last_activity": "2018-11-22T12:11:18.658000Z",
+                "started": "2018-11-20T23:26:47.605178Z",
+                "pending": null,
+                "ready": true,
+                "state": {
+                    "pid": 5923
+                },
+                "url": "/user/peter/",
+                "progress_url": "/hub/api/users/peter/server/progress"
+            }
+        },
+        "expiry": 60
+    },
+    {
+        "kind": "user",
+        "name": "aiman01",
+        "admin": false,
+        "groups": [],
+        "server": "/user/aiman01/",
+        "pending": null,
+        "created": "2018-11-21T01:00:09.245744Z",
+        "last_activity": "2018-11-22T03:23:44.220630Z",
+        "servers": {
+            "": {
+                "name": "",
+                "last_activity": "2018-11-21T01:05:31.892000Z",
+                "started": "2018-11-21T01:00:10.174074Z",
+                "pending": null,
+                "ready": true,
+                "state": {
+                    "pid": 8318
+                },
+                "url": "/user/aiman01/",
+                "progress_url": "/hub/api/users/aiman01/server/progress"
+            }
+        },
+        "expiry": 240
+    }
+    
+]
