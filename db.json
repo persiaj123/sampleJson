@@ -1,0 +1,26 @@
+{
+        "kind": "user",
+        "name": "peter",
+        "admin": false,
+        "groups": [],
+        "server": "/user/peter/",
+        "pending": null,
+        "created": "2018-11-20T23:26:46.896467Z",
+        "last_activity": "2018-11-22T12:11:18.658000Z",
+        "servers": {
+            "": {
+                "name": "",
+                "last_activity": "2018-11-22T12:11:18.658000Z",
+                "started": "2018-11-20T23:26:47.605178Z",
+                "pending": null,
+                "ready": true,
+                "state": {
+                    "pid": 5923
+                },
+                "url": "/user/peter/",
+                "progress_url": "/hub/api/users/peter/server/progress"
+            }
+        },
+        "expiry": 60
+}
+    
